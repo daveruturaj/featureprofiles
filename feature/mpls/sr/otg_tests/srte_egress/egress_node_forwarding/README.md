@@ -187,3 +187,4 @@ rpcs:
 ## Required DUT platform
 
 * FFF
+* MFF
