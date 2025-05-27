@@ -169,7 +169,7 @@ Verify that:
 ```
 ## OpenConfig Path and RPC Coverage
 
-```
+```yaml
 paths:
   # telemetry
   /network-instances/network-instance/protocols/protocol/isis/global/segment-routing/state/enabled:
@@ -187,3 +187,4 @@ rpcs:
 ## Required DUT platform
 
 * FFF
+* MFF
